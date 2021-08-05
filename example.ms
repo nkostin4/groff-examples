@@ -18,6 +18,6 @@ since
 of those already exist. Rather, what follows
 is an incoherent collection of examples that illustrate good practice.
 .PP
-Visit
+Be sure to visit
 .CW "https://github.com/nkostin4/groff-examples"
 for more of my awesome groff resources.
