@@ -40,7 +40,7 @@ Groff is a typesetting system that takes plain text files, mixed with embedded f
 
 ### Macro Packages
 
-Groff has a bunch of different macro packages. These packages contain dozens of useful macros for headers, footers, titles, lists, tables, and so on. Some common macro packages include
+Groff has a bunch of different macro packages. These packages contain dozens of useful macros for headers, footers, titles, lists, tables, and so on. Some of the most common macro packages include
 
 - `man` for writing man pages
 - `mom` for writing books
